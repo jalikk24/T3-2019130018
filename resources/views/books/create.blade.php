@@ -60,6 +60,7 @@
         </div>
         <button class="btn btn-dark btn-lg btn-block" type="submit">Add</button>
     </form>
+    
 @endsection
 
 @push('js_after')
